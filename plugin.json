@@ -1,0 +1,19 @@
+[{
+        "Author": "veyn",
+        "Name": "vfallguy",
+        "Punchline": "Get that achievement!",
+        "Description": "Bot that does fall guys event automatically.",
+        "Tags": [],
+        "InternalName": "vfallguy",
+        "RepoUrl": null,
+        "DownloadCount": 21584,
+        "LastUpdate": 1700000789276,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfailguy/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfailguy/latest.zip",
+        "AssemblyVersion": "0.0.0.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
+    }
+]
