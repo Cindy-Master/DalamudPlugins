@@ -1,9 +1,9 @@
 {
-  "Author": "veyn",
+  "Author": "veyn、Cindy-Master、Airexplosion",
   "Name": "vfallguy",
   "InternalName": "vfallguy",
   "AssemblyVersion": "0.0.0.0",
-  "Description": "Auto join/leave to try fishing for solo instance, highlight of aoes on last stage.",
+  "Description": "糖豆人plus",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
