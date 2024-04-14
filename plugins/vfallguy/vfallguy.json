@@ -1,8 +1,8 @@
 {
-  "Author": "veyn、Cindy-Master、Airexplosion",
+  "Author": "veyn,Cindy-Master,Airexplosion",
   "Name": "vfallguy",
   "InternalName": "vfallguy",
-  "AssemblyVersion": "0.0.0.0",
+  "AssemblyVersion": "0.0.0.7",
   "Description": "糖豆人plus",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
@@ -11,6 +11,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
-  "Punchline": "Get that achievement!",
+  "Punchline": "PLUS",
   "AcceptsFeedback": true
 }
