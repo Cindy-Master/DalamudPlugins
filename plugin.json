@@ -1,19 +1,19 @@
 [{
         "Author": "veyn",
         "Name": "vfallguy",
-        "Punchline": "Get that achievement!",
-        "Description": "自动糖豆人",
+        "Punchline": "Plus",
+        "Description": "糖豆人Plus",
         "Tags": [],
         "InternalName": "vfallguy",
         "RepoUrl": null,
         "DownloadCount": 21584,
-        "LastUpdate": 1700000789276,
+        "LastUpdate": 1713137880,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "",
+        "Changelog": "增加QQ机器人通知",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
     }
 ]
