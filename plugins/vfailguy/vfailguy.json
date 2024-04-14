@@ -1,0 +1,16 @@
+{
+  "Author": "veyn",
+  "Name": "vfallguy",
+  "InternalName": "vfallguy",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Auto join/leave to try fishing for solo instance, highlight of aoes on last stage.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_vfallguy/3af43e6f7b7e63c6527ffa4ecc54190034bd60c4/icon2.png",
+  "Punchline": "Get that achievement!",
+  "AcceptsFeedback": true
+}
