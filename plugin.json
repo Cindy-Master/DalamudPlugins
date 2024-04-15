@@ -13,7 +13,7 @@
         "AssemblyVersion": "0.0.0.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "增加第三关结束后立刻退本(自行想能用在哪),QQ机器人配置在点击应用后可保存",
+        "Changelog": "1.0:\n  增加王之进度0.9:\n  增加第三关结束后立刻退本(自行想能用在哪)\n  QQ机器人配置在点击应用后可保存",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
     }
 ]
