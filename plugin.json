@@ -7,13 +7,13 @@
         "InternalName": "vfallguy",
         "RepoUrl": "https://github.com/Cindy-Master/ffxiv_vfallguy",
         "DownloadCount": 21584,
-        "LastUpdate": 1713137880,
+        "LastUpdate": 1713148778,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
-        "AssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.8",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "增加QQ机器人通知",
+        "Changelog": "修复了不勾选挂机刷币就不会通知的bug",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
     }
 ]
