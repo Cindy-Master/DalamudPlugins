@@ -6,14 +6,14 @@
         "Tags": [],
         "InternalName": "vfallguy",
         "RepoUrl": "https://github.com/Cindy-Master/ffxiv_vfallguy",
-        "DownloadCount": 21584,
+        "DownloadCount": 58342,
         "LastUpdate": 1713148778,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
-        "AssemblyVersion": "0.0.0.8",
+        "AssemblyVersion": "0.0.0.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "修复了不勾选挂机刷币就不会通知的bug",
+        "Changelog": "增加第三关结束后立刻退本(自行想能用在哪),QQ机器人配置在点击应用后可保存",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
     }
 ]
