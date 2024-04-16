@@ -10,10 +10,10 @@
         "LastUpdate": 1713148778,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/vfallguy/latest.zip",
-        "AssemblyVersion": "0.0.1.0",
+        "AssemblyVersion": "0.0.1.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "1.0:\n  增加王之进度\n0.9:\n  增加第三关结束后立刻退本(自行想能用在哪)\n  QQ机器人配置在点击应用后可保存",
+        "Changelog": "1.1:\n  喜欢录屏举报?增加排本前选中NPC\n1.0:\n  增加王之进度\n0.9:\n  增加第三关结束后立刻退本(自行想能用在哪)\n  QQ机器人配置在点击应用后可保存",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
     }
 ]
