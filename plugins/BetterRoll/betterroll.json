@@ -1,0 +1,14 @@
+{
+  "Author": "Cindy-Master",
+  "Name": "betterroll",
+  "InternalName": "betterroll",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "更好的帮助统计roll奖",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "AcceptsFeedback": true
+}
