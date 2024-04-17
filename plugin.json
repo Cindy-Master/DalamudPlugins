@@ -28,7 +28,7 @@
         "LastUpdate": 1713148778,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/BetterRoll/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/BetterRoll/latest.zip",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
         "Changelog": "0.3:\n  适配英日德法\n0.2:\n  能用了\n0.1:\n  测试版"
