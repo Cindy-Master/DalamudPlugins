@@ -29,12 +29,12 @@
     "LastUpdate": 1713148797,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats/latest.zip",
-    "AssemblyVersion": "0.2.3.7",
+    "AssemblyVersion": "0.2.3.8",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/wrath16/PvpStats/master/images/icon.png",
-    "Changelog": "2.3.7~2.3.4:  修改部分汉化\n2.3.3 国服本地化\n2.3.2 国服本地化beta"
+    "Changelog": "2.3.8  完整汉化\n2.3.7~2.3.4:  修改部分汉化\n2.3.3 国服本地化\n2.3.2 国服本地化beta"
   },
   {
     "Author": "Cindy-Master",
