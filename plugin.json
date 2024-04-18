@@ -29,7 +29,7 @@
     "LastUpdate": 1713148797,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats-CN/latest.zip",
-    "AssemblyVersion": "0.2.3.4",
+    "AssemblyVersion": "0.2.3.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "AcceptsFeedback": true,
