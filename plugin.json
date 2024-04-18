@@ -36,7 +36,8 @@
   },
   {
     "Author": "SaMo,Cindy-Mater(本地化)",
-    "Name": "PvP Tracker(国服)",
+    "Name": "PvP Tracker(国服本地化)",
+    "Punchline": "水晶冲突比赛历史和记分板跟踪器",
     "InternalName": "PvpStats",
     "AssemblyVersion": "0.2.3.3",
     "Description": "记录、浏览和筛选您的水晶冲突比赛历史，查看比赛计分板，并查看聚合统计数据，如胜率和每场比赛的平均伤害,无网络上传,均为本地数据记录(本地化问题请不要前往原作者处反馈,本地化遗漏请给我提issue)",
@@ -47,13 +48,12 @@
       "statistics"
     ],
     "DownloadCount": 1314,
-    "LastUpdate": 1713148778,
+    "LastUpdate": 1713148797,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpStats-CN/latest.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "IconUrl": "https://raw.githubusercontent.com/wrath16/PvpStats/master/images/icon.png",
-    "Punchline": "水晶冲突比赛历史和记分板跟踪器",
     "Changelog": "2.3.3 国服本地化\n2.3.2 国服本地化beta"
   }
 ]
