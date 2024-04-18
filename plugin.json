@@ -36,7 +36,7 @@
   },
   {
     "Author": "SaMo,Cindy-Mater(本地化)",
-    "Name": "PvP Tracker(国服本地化)",
+    "Name": "PvP Tracker(CN)",
     "Punchline": "水晶冲突比赛历史和记分板跟踪器",
     "InternalName": "PvpStats",
     "AssemblyVersion": "0.2.3.3",
