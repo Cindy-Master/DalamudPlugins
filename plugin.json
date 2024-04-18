@@ -32,6 +32,7 @@
     "AssemblyVersion": "0.2.3.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
+    "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/wrath16/PvpStats/master/images/icon.png",
     "Changelog": "2.3.3 国服本地化\n2.3.2 国服本地化beta"
   },
