@@ -1,0 +1,11 @@
+{
+  "Author": "0x,Cindy-Master",
+  "Name": "0xPvpPlugin",
+  "InternalName": "0xPvpPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "Punchline": "獭獭战场助手 增加LB计时器 增加Gui界面的武士三连冰选项"
+}
