@@ -18,6 +18,25 @@
         "LastUpdated": "0"
 },
   {
+  "Author": "Anna",
+        "Name": "Peepingtom改",
+        "InternalName": "Peepingtom改",
+        "AssemblyVersion": "1.7.16",
+        "Description": "显示谁正在或者曾经以你为目标 战场可用(划掉)",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 9,
+        "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
+
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+},
+  {
     "Author": "veyn,Cindy-Master,Airexplosion",
     "Name": "vfallguy",
     "Punchline": "Plus",
