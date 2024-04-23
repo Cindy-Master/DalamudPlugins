@@ -1,4 +1,22 @@
-[
+[{
+  "Author": "c98cmka,Cindy-Master",
+        "Name": "0xPvpPlugin",
+        "InternalName": "0xPvpPlugin",
+        "AssemblyVersion": "1.3.0.0",
+        "Description": "獭獭战场助手 增加LB计时器 增加Gui界面的武士三连冰选项",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 9,
+        "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
+        "Punchline": "獭獭战场助手 增加LB计时器 增加Gui界面的武士三连冰选项",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/0xPvpPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/0xPvpPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/0xPvpPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+}
   {
     "Author": "veyn,Cindy-Master,Airexplosion",
     "Name": "vfallguy",
