@@ -1,0 +1,16 @@
+{
+  "Author": "Anna",
+  "Name": "Peeping Tom",
+  "InternalName": "PeepingTom",
+  "AssemblyVersion": "1.7.16",
+  "Description": "Shows who is currently or was previously targeting you.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.anna.lgbt/anna/PeepingTom",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Shows who is currently or was previously targeting you.",
+  "AcceptsFeedback": true
+}
