@@ -13,7 +13,7 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/0xPvpPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/0xPvpPlugin/latest.zip",
         "IsHide": false,
-        "Changelog": "1.6.0 优化武士多斩逻辑\n1.5.0:  增加武士多斩\n1.4.0  LB倒计时显示美化 感谢E佬!\n1.3.0  增加LB倒计时 增加Gui界面的武士三连冰\n"
+        "Changelog": "1.6.0 优化武士多斩逻辑\n1.5.0:  增加武士多斩\n1.4.0  LB倒计时显示美化 感谢E佬!\n1.3.0  增加LB倒计时 增加Gui界面的武士三连冰\n",
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
