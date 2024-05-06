@@ -1,0 +1,15 @@
+{
+  "Author": "Cindy-Master",
+  "Name": "PvpSkillTime",
+  "InternalName": "PVPskillTime",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "让你的55更上一层楼",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "PvpSkillTime",
+  "AcceptsFeedback": true
+}
