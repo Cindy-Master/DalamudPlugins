@@ -42,7 +42,7 @@
   "Author": "Cindy-Master",
         "Name": "PvpSkillTime(在线安装only)",
         "InternalName": "PvpSkillTime",
-        "AssemblyVersion": "0.0.3",
+        "AssemblyVersion": "0.0.4",
         "Description": "让你的55水平更上一层楼 目前只记录防御 净化 骑士保护 如果你需要别的技能 请给我提issue",
         "ApplicableVersion": "any",
         "Tags": [],
@@ -53,7 +53,7 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpSkillTime/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PvpSkillTime/latest.zip",
         "IsHide": false,
-        "Changelog": "0.0.3  增加不知道什么的功能\n0.0.2  修复bug\n0.0.1  beta",
+        "Changelog": "0.0.4  增加不知道什么的功能\n0.0.2  修复bug\n0.0.1  beta",
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
