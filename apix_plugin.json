@@ -7,7 +7,7 @@
         "Description": "steal 装修 7.0国际服可用",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "RepoUrl": "https://github.com/Cindy-Master/DalamudPlugins",
         "Punchline": "steal 装修 7.0国际服可用",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
