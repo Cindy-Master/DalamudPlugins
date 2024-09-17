@@ -1,0 +1,22 @@
+[
+  {
+  "Author": "Jawslouis",
+        "Name": "MakePlace Plugin pants(在线安装only)",
+        "InternalName": "MakePlace",
+        "AssemblyVersion": "3.5.0",
+        "Description": "steal 装修 7.0国际服可用",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 9,
+        "RepoUrl": "https://github.com/Cindy-Master/DalamudPlugins",
+        "Punchline": "steal 装修 7.0国际服可用",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
+        "IsHide": false,
+        "Changelog": "",
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+}
+]
