@@ -1,6 +1,6 @@
 # DalamudPlugins
 ```
-https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugin.json
+https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json
 ```
 本人维护的插件
 
