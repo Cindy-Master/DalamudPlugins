@@ -24,8 +24,8 @@
 ,
   {
   "Author": "Anna",
-        "Name": "Peepingtom改",
-        "InternalName": "PeepingTomS",
+        "Name": "Peepingtom",
+        "InternalName": "PeepingTom",
         "AssemblyVersion": "1.7.17",
         "Description": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
         "ApplicableVersion": "any",
