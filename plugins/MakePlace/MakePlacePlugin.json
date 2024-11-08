@@ -1,0 +1,23 @@
+{
+  "Author": "Jawslouis",
+  "Name": "MakePlace Plugin",
+  "InternalName": "MakePlacePlugin",
+  "AssemblyVersion": "3.6.2.0",
+  "Description": "steal",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Cindy-Master/DalamudPlugins",
+  "Tags": [
+    "makeplace",
+    "housing",
+    "furniture",
+    "jawslouis"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugins/master/icon.png",
+  "Punchline": "Automatically save & load furniture layouts in your house.",
+  "AcceptsFeedback": true
+}
