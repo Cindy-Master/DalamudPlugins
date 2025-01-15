@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/pl
 |-------|-------|-------|
 | MakePlace Plugin pants(在线安装only) | Jawslouis | nopants |
 | Peepingtom改 | Anna | 战场可用 |
-
+| vfallguy | veyn,Cindy-Master,Airexplosion,Siren | vfallguy PLUS |
