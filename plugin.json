@@ -53,7 +53,7 @@
     "LastUpdate": 1713148778,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugins/vfallguy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugins/vfallguy/latest.zip",
-    "AssemblyVersion": "0.0.1.5",
+    "AssemblyVersion": "0.0.1.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "10",
     "Changelog": "1.4:\n  优化自动进本逻辑\n1.3:\n 修复打开人物信息界面的时候 会导致玩家人数+1的bug\n  尝试修复了一下偶尔会卡一下导致无法自动进本的情况\n1.1:\n  喜欢录屏举报?增加排本前选中NPC\n1.0:\n  增加王之进度\n0.9:\n  增加第三关结束后立刻退本(自行想能用在哪)\n  QQ机器人配置在点击应用后可保存",
