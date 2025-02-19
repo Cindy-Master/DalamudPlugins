@@ -3,8 +3,8 @@
   "Name": "MakePlace Plugin",
   "InternalName": "MakePlacePlugin",
   "AssemblyVersion": "3.6.4",
-  "Punchline": "steal7.0可用",
-  "Description": "steal7.0可用",
+  "Punchline": "steal7.1可用",
+  "Description": "steal7.1可用",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Cindy-Master/DalamudPlugins",
   "Tags": [
@@ -13,13 +13,13 @@
     "furniture",
     "jawslouis"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
   "DownloadCount": 386826,
- "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
- "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
- "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/APIX/MakePlace/latest.zip",
+ "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/MakePlace/latest.zip",
+ "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/MakePlace/latest.zip",
+ "DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/MakePlace/latest.zip",
 }
 ,
   {
@@ -31,7 +31,7 @@
         "ApplicableVersion": "any",
         "Tags": [],
         "Punchline": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/PeepingTom/latest.zip",
