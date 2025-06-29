@@ -1,10 +1,10 @@
 [{
-  "Author": "Jawslouis",
-  "Name": "MakePlace Plugin",
-  "InternalName": "MakePlacePlugin",
-  "AssemblyVersion": "3.6.6",
-  "Punchline": "steal7.1可用",
-  "Description": "steal7.1可用",
+  "Author": "ReMakePlace Maintainers",
+  "Name": "ReMakePlace Plugin",
+  "InternalName": "ReMakePlacePlugin",
+  "AssemblyVersion": "7.2.7",
+  "Punchline": "steal7.2可用",
+  "Description": "steal7.2可用",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Cindy-Master/DalamudPlugins",
   "Tags": [
@@ -13,7 +13,7 @@
     "furniture",
     "jawslouis"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
   "DownloadCount": 386826,
